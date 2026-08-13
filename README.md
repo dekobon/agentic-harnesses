@@ -1,6 +1,7 @@
 # Agentic Security Harnesses
 This is a list of all the agentic harnesses that I can find.
 
+- [Raptor - Autonomous security research framework built on top of Claude Code](https://github.com/gadievron/raptor)
 - [Anthropic Defending Code Reference Harness (unmaintained) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize](https://github.com/anthropics/defending-code-reference-harness)
 - [Semgrep Fork Defending Code Reference Harness (unmaintained) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize](https://github.com/semgrep/defending-code-harness)
 - [OpenAI Deep Security Scan - Skill for Codex for doing security scans](https://github.com/openai/plugins/tree/main/plugins/codex-security/skills/deep-security-scan)
